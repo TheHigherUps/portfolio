@@ -6,6 +6,10 @@ export default function Projects() {
         <>
             <Head>
                 <title>Projects</title>
+                <meta
+                    name="description"
+                    content="An up-to-date list of all of the project that I worked on, along with upcoming projects I am working on"
+                />
             </Head>
             <Navigation />
             <main>

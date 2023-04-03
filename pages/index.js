@@ -13,11 +13,6 @@ export default function Home() {
                     name="description"
                     content="A front end web developer with the passion to create unique projects for all!"
                 />
-                <meta
-                    name="viewport"
-                    content="width=device-width, initial-scale=1"
-                />
-                <link rel="icon" href="/favicon.ico" />
             </Head>
             <Navigation />
             <main>
