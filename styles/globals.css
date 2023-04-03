@@ -7,4 +7,9 @@
 }
 body {
     background-color: #000;
+    color: #fff;
+    /* min-height: 100dvh; */
+}
+main {
+    min-height: calc(100dvh - 50px);
 }
