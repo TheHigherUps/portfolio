@@ -9,7 +9,13 @@ export default function Projects() {
             </Head>
             <Navigation />
             <main>
-                <h1>Projects</h1>
+                <h1>My Projects</h1>
+                <ul>
+                    <li>TheHigherUps</li>
+                    <li>TheHigherUps Shop</li>
+                    <li>TheHigherUps Accounts</li>
+                    <li>Firebase Admin Panel</li>
+                </ul>
             </main>
         </>
     )
